@@ -12,6 +12,7 @@ public class team {
 		System.out.println("team5");
 		System.out.println("team6");
 		System.out.println("team7");
+		System.out.println("team7");
 		
 
 	}
