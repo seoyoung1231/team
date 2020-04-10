@@ -6,6 +6,9 @@ public class team {
 		System.out.println("team1");
 		System.out.println("team3");
 		System.out.println("team4");
+		System.out.println("team5");
+		System.out.println("team6");
+		
 	}
 
 }
